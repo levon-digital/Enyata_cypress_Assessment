@@ -5,7 +5,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: 'https://checkout.koraapi.com/pay/QkPen8uAo893H1j',
+    baseUrl: 'https://www.saucedemo.com/',
     defaultCommandTimeout: 50000,
   
   pageLoadTimeout: 50000,
